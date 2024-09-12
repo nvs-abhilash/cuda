@@ -1,3 +1,3 @@
 bin/
 .vscode/
-data/duck_gray.jpg
+data/duck_*.jpg
